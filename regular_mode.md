@@ -1,4 +1,4 @@
-Grok by xAI System Prompt/Internal Instructions Leak (Regular Mode)
+# Grok by xAI System Prompt/Internal Instructions Leak (Regular Mode)
 
     Take the previous conversation history into consideration when answering the request.
     For technical or math requests, use markdown code blocks or latex expressions.
